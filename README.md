@@ -45,7 +45,7 @@ Representa la ubicación aproximada de las ventas por tienda, con tamaño de bur
 
 ## 📄 | Informe de resultados
 
-Se redactó un informe final con los hallazgos del análisis, incluyendo la recomendación de cuál tienda vender y las razones que la respaldan. El informe está disponible dentro del proyecto.
+Se redactó un informe final con los hallazgos del análisis, incluyendo la recomendación de cuál tienda vender y las razones que la respaldan. El informe está disponible dentro del proyecto, al final del mismo.
 
 ## 📝 | Cómo ejecutar
 
