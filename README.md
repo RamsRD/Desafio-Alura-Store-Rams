@@ -51,4 +51,4 @@ Se redactó un informe final con los hallazgos del análisis, incluyendo la reco
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/RamsRD/desafio-Alura-Store-Rams
